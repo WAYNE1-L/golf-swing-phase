@@ -1,0 +1,2 @@
+Average Difference per Frame: 6267.16 px
+Similarity Score (0-100): 0.00

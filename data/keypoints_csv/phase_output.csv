@@ -1,0 +1,329 @@
+Frame,DetectedPhase,Comment
+0,Setup,
+1,Follow-through,Left arm too bent
+2,Follow-through,Left arm too bent
+3,Follow-through,Left arm too bent
+4,Follow-through,Left arm too bent
+5,Follow-through,Left arm too bent
+6,Follow-through,Left arm too bent
+7,Follow-through,Left arm too bent
+8,Follow-through,Left arm too bent
+9,Follow-through,Left arm too bent
+10,Follow-through,Left arm too bent
+11,Follow-through,Left arm too bent
+12,Follow-through,
+13,Follow-through,
+14,Follow-through,
+15,Follow-through,
+16,Follow-through,
+17,Follow-through,
+18,Follow-through,
+19,Follow-through,
+20,Follow-through,
+21,Follow-through,
+22,Follow-through,
+23,Follow-through,
+24,Follow-through,
+25,Follow-through,
+26,Follow-through,
+27,Follow-through,
+28,Follow-through,
+29,Follow-through,
+30,Follow-through,
+31,Follow-through,
+32,Follow-through,
+33,Follow-through,
+34,Follow-through,
+35,Follow-through,
+36,Follow-through,
+37,Follow-through,
+38,Follow-through,
+39,Follow-through,
+40,Follow-through,
+41,Follow-through,
+42,Follow-through,
+43,Follow-through,
+44,Follow-through,
+45,Setup,
+46,Setup,
+47,Setup,
+48,Setup,Left arm too straight
+49,Setup,Left arm too straight
+50,Setup,Left arm too straight
+51,Setup,Left arm too straight
+52,Setup,Left arm too straight
+53,Setup,Left arm too straight
+54,Setup,Left arm too straight
+55,Setup,Left arm too straight
+56,Setup,Left arm too straight
+57,Setup,Left arm too straight
+58,Setup,Left arm too straight
+59,Setup,Left arm too straight
+60,Setup,Left arm too straight
+61,Setup,Left arm too straight
+62,Setup,Left arm too straight
+63,Setup,Left arm too straight
+64,Setup,Left arm too straight
+65,Setup,Left arm too straight
+66,Setup,Left arm too straight
+67,Setup,Left arm too straight
+68,Setup,Left arm too straight
+69,Setup,Left arm too straight
+70,Setup,Left arm too straight
+71,Setup,Left arm too straight
+72,Setup,Left arm too straight
+73,Setup,Left arm too straight
+74,Backswing,Left arm too straight
+75,Backswing,Left arm too straight
+76,Backswing,Left arm too straight
+77,Backswing,Left arm too straight
+78,Backswing,Left arm too straight
+79,Backswing,Left arm too straight
+80,Backswing,Left arm too straight
+81,Backswing,Left arm too straight
+82,Backswing,Left arm too straight
+83,Backswing,Left arm too straight
+84,Backswing,
+85,Backswing,
+86,Backswing,
+87,Backswing,
+88,Backswing,
+89,Backswing,
+90,Backswing,
+91,Backswing,
+92,Backswing,
+93,Backswing,Left arm too straight
+94,Backswing,
+95,Backswing,
+96,Backswing,
+97,Backswing,
+98,Backswing,
+99,Backswing,
+100,Backswing,
+101,Backswing,Left arm too bent
+102,Backswing,Left arm too bent
+103,Backswing,
+104,Backswing,
+105,Backswing,
+106,Backswing,
+107,Backswing,Left arm too bent
+108,Backswing,Left arm too bent
+109,Backswing,Left arm too bent
+110,Backswing,Left arm too bent
+111,Backswing,Left arm too bent
+112,Backswing,Left arm too bent
+113,Backswing,Left arm too bent
+114,Backswing,Left arm too bent
+115,Backswing,Left arm too bent
+116,Backswing,Left arm too bent
+117,Backswing,Left arm too bent
+118,Backswing,
+119,Backswing,
+120,Backswing,
+121,Backswing,Left arm too bent
+122,Backswing,Left arm too bent
+123,Backswing,Left arm too bent
+124,Backswing,Left arm too bent
+125,Backswing,Left arm too bent
+126,Backswing,Left arm too bent
+127,Backswing,
+128,Backswing,
+129,Backswing,
+130,Backswing,
+131,Backswing,
+132,Backswing,
+133,Backswing,
+134,Backswing,
+135,Backswing,
+136,Backswing,
+137,Backswing,
+138,Backswing,
+139,Backswing,
+140,Backswing,
+141,Backswing,
+142,Backswing,
+143,Backswing,
+144,Backswing,
+145,Backswing,
+146,Backswing,
+147,Backswing,
+148,Backswing,
+149,Backswing,Left arm too straight
+150,Backswing,Left arm too straight
+151,Backswing,Left arm too straight
+152,Backswing,
+153,Backswing,
+154,Backswing,
+155,Backswing,
+156,Backswing,
+157,Backswing,
+158,Backswing,Left arm too straight
+159,Backswing,Left arm too straight
+160,Backswing,Left arm too straight
+161,Backswing,Left arm too straight
+162,Backswing,Left arm too straight
+163,Backswing,Left arm too straight
+164,Backswing,
+165,Backswing,
+166,Backswing,
+167,Backswing,
+168,Backswing,
+169,Backswing,
+170,Backswing,
+171,Backswing,
+172,Backswing,
+173,Backswing,
+174,Backswing,
+175,Backswing,
+176,Backswing,
+177,Backswing,
+178,Backswing,
+179,Backswing,
+180,Backswing,
+181,Backswing,
+182,Backswing,
+183,Backswing,
+184,Backswing,Left arm too straight
+185,Backswing,Left arm too straight
+186,Backswing,
+187,Backswing,
+188,Backswing,
+189,Backswing,
+190,Backswing,
+191,Backswing,
+192,Backswing,
+193,Backswing,
+194,Backswing,
+195,Backswing,
+196,Backswing,
+197,Backswing,
+198,Backswing,
+199,Backswing,Left arm too bent
+200,Backswing,
+201,Backswing,
+202,Backswing,
+203,Backswing,
+204,Backswing,
+205,Backswing,Left arm too bent
+206,Backswing,Left arm too bent
+207,Setup,Left arm too bent
+208,Backswing,Left arm too bent
+209,Backswing,Left arm too bent
+210,Backswing,Left arm too bent
+211,Backswing,
+212,Backswing,
+213,Setup,
+214,Setup,
+215,Follow-through,Left arm too straight
+216,Follow-through,Left arm too straight
+217,Follow-through,Left arm too straight
+218,Follow-through,Left arm too straight
+219,Follow-through,Left arm too straight
+220,Follow-through,Left arm too straight
+221,Follow-through,
+222,Follow-through,
+223,Follow-through,
+224,Follow-through,
+225,Follow-through,
+226,Setup,Left arm too bent
+227,Setup,Left arm too bent
+228,Setup,Left arm too bent
+229,Setup,Left arm too bent
+230,Setup,Left arm too bent
+231,Setup,Left arm too bent
+232,Follow-through,Left arm too bent
+233,Setup,Left arm too bent
+234,Follow-through,Left arm too bent
+235,Follow-through,Left arm too bent
+236,Follow-through,Left arm too bent
+237,Follow-through,Left arm too bent
+238,Follow-through,Left arm too bent
+239,Follow-through,Left arm too bent
+240,Setup,Left arm too bent
+241,Setup,Left arm too bent
+242,Setup,Left arm too bent
+243,Setup,Left arm too bent
+244,Setup,Left arm too bent
+245,Setup,Left arm too bent
+246,Setup,Left arm too bent
+247,Setup,Left arm too bent
+248,Setup,Left arm too bent
+249,Follow-through,Left arm too bent
+250,Follow-through,Left arm too bent
+251,Follow-through,Left arm too bent
+252,Follow-through,Left arm too bent
+253,Follow-through,Left arm too bent
+254,Follow-through,Left arm too bent
+255,Follow-through,Left arm too bent
+256,Follow-through,Left arm too bent
+257,Follow-through,Left arm too bent
+258,Follow-through,Left arm too bent
+259,Follow-through,Left arm too bent
+260,Follow-through,Left arm too bent
+261,Follow-through,Left arm too bent
+262,Follow-through,Left arm too bent
+263,Follow-through,Left arm too bent
+264,Follow-through,Left arm too bent
+265,Follow-through,Left arm too bent
+266,Follow-through,Left arm too bent
+267,Follow-through,Left arm too bent
+268,Follow-through,Left arm too bent
+269,Follow-through,Left arm too bent
+270,Follow-through,Left arm too bent
+271,Setup,Left arm too bent
+272,Setup,Left arm too bent
+273,Setup,Left arm too bent
+274,Setup,Left arm too bent
+275,Setup,Left arm too bent
+276,Setup,Left arm too bent
+277,Setup,Left arm too bent
+278,Backswing,Left arm too bent
+279,Backswing,Left arm too bent
+280,Backswing,Left arm too bent
+281,Backswing,Left arm too bent
+282,Backswing,Left arm too bent
+283,Backswing,Left arm too bent
+284,Backswing,Left arm too bent
+285,Backswing,Left arm too bent
+286,Backswing,Left arm too bent
+287,Backswing,Left arm too bent
+288,Backswing,Left arm too bent
+289,Backswing,Left arm too bent
+290,Backswing,Left arm too bent
+291,Backswing,Left arm too bent
+292,Backswing,Left arm too bent
+293,Backswing,Left arm too bent
+294,Backswing,Left arm too bent
+295,Backswing,Left arm too bent
+296,Backswing,Left arm too bent
+297,Backswing,Left arm too bent
+298,Backswing,Left arm too bent
+299,Backswing,Left arm too bent
+300,Backswing,Left arm too bent
+301,Backswing,Left arm too bent
+302,Backswing,Left arm too bent
+303,Backswing,Left arm too bent
+304,Backswing,Left arm too bent
+305,Backswing,Left arm too bent
+306,Backswing,Left arm too bent
+307,Backswing,Left arm too bent
+308,Backswing,Left arm too bent
+309,Backswing,Left arm too bent
+310,Backswing,Left arm too bent
+311,Backswing,Left arm too bent
+312,Backswing,Left arm too bent
+313,Backswing,Left arm too bent
+314,Backswing,Left arm too bent
+315,Backswing,Left arm too bent
+316,Backswing,Left arm too bent
+317,Backswing,Left arm too bent
+318,Backswing,Left arm too bent
+319,Backswing,Left arm too bent
+320,Backswing,Left arm too bent
+321,Backswing,Left arm too bent
+322,Backswing,Left arm too bent
+323,Backswing,Left arm too bent
+324,Backswing,Left arm too bent
+325,Backswing,Left arm too bent
+326,Backswing,Left arm too bent
+327,Backswing,Left arm too bent
