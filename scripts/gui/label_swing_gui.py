@@ -5,9 +5,14 @@ import tkinter as tk
 from tkinter import ttk
 
 # === CONFIG ===
-VIDEO_PATH = "golf_swing.mp4"
-CSV_PATH = "golf_swing_keypoints.csv"
-OUTPUT_CSV_PATH = "golf_swing_labeled.csv"
+VIDEO_PATH = "training_data/swing5.mp4"
+CSV_PATH = "keypoints_csv/swing5.csv"
+OUTPUT_CSV_PATH = "labeled_csv/swing5_labeled.csv"
+
+
+
+
+
 
 # === Load video and keypoints ===
 df = pd.read_csv(CSV_PATH)

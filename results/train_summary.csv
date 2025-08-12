@@ -1,0 +1,11 @@
+Run,Best Val Accuracy,Best Val Loss,Model Path
+1,0.9328858852386475,0.19515565037727356,model/multi_runs\swing_model_run1.h5
+2,0.8926174640655518,0.2477257251739502,model/multi_runs\swing_model_run2.h5
+3,0.899328887462616,0.273149311542511,model/multi_runs\swing_model_run3.h5
+4,0.8523489832878113,0.4712246358394623,model/multi_runs\swing_model_run4.h5
+5,0.7315436005592346,0.5267019867897034,model/multi_runs\swing_model_run5.h5
+6,0.8724831938743591,0.4463234841823578,model/multi_runs\swing_model_run6.h5
+7,0.8120805621147156,0.4648585021495819,model/multi_runs\swing_model_run7.h5
+8,0.6711409687995911,0.948917031288147,model/multi_runs\swing_model_run8.h5
+9,0.9328858852386475,0.2401997148990631,model/multi_runs\swing_model_run9.h5
+10,0.791946291923523,0.506719172000885,model/multi_runs\swing_model_run10.h5
